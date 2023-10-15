@@ -1,4 +1,4 @@
-# HR-Report-Project-MySQL-PowerBI
+# Project: HR Report Dashboard
 
 ## Tools and data
 
