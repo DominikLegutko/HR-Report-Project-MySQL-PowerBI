@@ -2,9 +2,9 @@
 
 ## Tools and data
 
-data: Human Resources.csv
-MySQL: Data celaning and exploring 
-Power BI: data vizualization
+- data: Human Resources.csv
+- MySQL: Data celaning and exploring 
+- Power BI: data vizualization
 
 ## Extracted data and importand problems
 
@@ -19,6 +19,6 @@ Power BI: data vizualization
 - What is the geographic distribution of employees across states?
 - What is the tenure distribution for employees within each department?
 
-## Cocclusions
+## Conclusions
 
 
