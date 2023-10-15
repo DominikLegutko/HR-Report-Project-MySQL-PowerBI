@@ -21,7 +21,7 @@
 
 ## Conclusions
 
-- Gender Distribution: The data indicates a higher presence of male employees within the company.
+- *Gender Distribution*: The data indicates a higher presence of male employees within the company.
 - Ethnic Diversity: Among the racial and ethnic groups, the white race appears to be the most dominant in the workforce.
 - Age Diversity: The age range of employees is notably diverse, spanning from the youngest employee at 20 years old to the oldest at 57 years old.
 - Age Groups: The workforce has been categorized into five distinct age groups. A significant portion of employees falls within the 25-34 age bracket, indicating a concentrated demographic.
